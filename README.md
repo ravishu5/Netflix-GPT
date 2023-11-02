@@ -1,4 +1,4 @@
-# Reelly As NETFLIX-GPT
+# NETFLIX-GPT
 
 Reelly uses the power of OpenAI's GPT-3.5 language model to generate movie recommendations, just like the way Netflix recommends content to its users. This project combines the capabilities of GPT-3.5 with data from TMDB to provide personalized content suggestions.
 
