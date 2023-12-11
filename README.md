@@ -1,7 +1,5 @@
 Install create React-app
 ### npm i create-react-app 
-Install chakra ui 
-### npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 Install Redux Tool Kit
 ### npm install @reduxjs/toolkit react-redux
 To start project
